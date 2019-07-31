@@ -1,5 +1,13 @@
 # RaspberryPi_Car_Project 
-
+# Components:
+##  - Raspberry pi
+##  - 4 electric motors with wheels (the ones sold for Arduino are the same)
+##  - Dual H Bridge Stepper Motor Drive Controller Board
+##  - Batteries and a baterry pack
+##  - External recharger for the pi
+##  - Cables
+##  - Something to make the frame such as thick cardboard
+##  - Duct tape
 ## Solder the cables to the electric motors
 ![Solder the cables to the electric motors](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0862%201.JPG?raw=true)
 
