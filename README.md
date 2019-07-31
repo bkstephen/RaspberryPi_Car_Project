@@ -15,7 +15,7 @@
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0864%201.JPG?raw=true)
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0865%201.JPG?raw=true)
 
-## Cut a ractangle shaped card board piece to use it as a frame and place the motors on it and make holes to pass the cables to the upper section.
+## Cut a a rectangle-shaped cardboard piece to use it as a frame and place the motors on it and make holes to pass the cables to the upper section.
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0867.JPG?raw=true)
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0869.JPG?raw=true)
 
@@ -26,6 +26,8 @@
 ## Lastly connect the Raspberry pi with the bridge as shown, using the 4 "IN" pins to control the wheels and make sure you have an external power supply that gives enough voltage for the pi. 
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0872.JPG?raw=true)
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0873.JPG?raw=true)
+
+## When finished using it, make sure you remove one of the baterries from the baterry pack to prevent drainage
 =======
 
 
