@@ -28,7 +28,7 @@
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0873.JPG?raw=true)
 
 ## When finished using it, make sure you remove one of the baterries from the baterry pack to prevent drainage
-=======
+
 
 
 
