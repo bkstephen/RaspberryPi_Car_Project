@@ -15,7 +15,7 @@
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0864%201.JPG?raw=true)
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0865%201.JPG?raw=true)
 
-## Place the motors on the frame (this one is made of a thick cardboard) and make holes to pass the cables to the upper section.
+## Cut a ractangle shaped card board piece to use it as a frame and place the motors on it and make holes to pass the cables to the upper section.
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0867.JPG?raw=true)
 ![Image description](https://github.com/stephenbek/RaspberryPi_Car_Project/blob/master/images/IMG_0869.JPG?raw=true)
 
